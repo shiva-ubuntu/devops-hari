@@ -1,2 +1,3 @@
-learning git clone
-developer-2 changes
+when we perfom push, if there are changes in the remote which is not
+present in the local.
+added by - developer-1 
