@@ -1,0 +1,21 @@
+git add
+git commit -m 'commit message'
+git push origin master
+git branch
+git branch -r (list all branches in remote)
+git branch -a (list all local + remote branches)
+git branch -d feature-1 (deletes branch in the local)
+git push origin feature-1 -d (deletes the branch in remote)
+git cherry-pick 3ffg44
+git clone <URL>
+git init
+git status
+git log
+git pull
+git fetch
+git merge
+git merge feature-1
+git reset HEAD~1
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+git revert 12dd44gg
