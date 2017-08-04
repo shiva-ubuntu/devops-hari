@@ -1,0 +1,8 @@
+- create a repository in github.com
+- clone the repo in desktop
+- create a branch with name 'learning'
+- Switch to the branch 'learning'
+- add info.txt file and add your Name and phone
+- Commit the changes
+- merge changes to master using pull request
+- delete branch in remote and local
