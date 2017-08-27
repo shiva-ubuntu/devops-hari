@@ -1,3 +1,4 @@
 class A{
- void addd(){}  
+  void sub(){}
+  void add(){}  
 }
