@@ -1,0 +1,9 @@
+class A{
+<<<<<<< HEAD
+  void sub(){}
+  void add(){}  
+=======
+ void mul(){}
+ void addd(){}  
+>>>>>>> 475b129209bea838ea8529d1f8ad4bf4609b831f
+}
